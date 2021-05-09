@@ -15,6 +15,7 @@ This Software was developed by RAMPAGE Interactive Engineers:
 vq9o - Programmer, Web Developer, Project Manager
 12Gauge_Nick - Programmer, Web Developer
 pasdalover - Programmer, Web Developer
+verbxtim - Programmer, Web Developer
 
 sha1 Encryption Module was developed by 12Gauge_Nick. future usage of shal encryption is in-mind.
 ]]
